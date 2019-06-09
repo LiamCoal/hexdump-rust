@@ -1,0 +1,9 @@
+[package]
+name = "hexdumf"
+version = "0.0.1"
+authors = ["liamcoal"]
+edition = "2018"
+include = ["src/**/*", "Cargo.toml"]
+
+[dependencies]
+math = "0.0.2"
